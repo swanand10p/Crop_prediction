@@ -57,7 +57,7 @@ To install and run this web application, ensure you have Python (3.0 or above) a
 ---
 
 ## Designed & Developed By
-**Dhananjay Pathak**
+**Swanand Pisu**
 
 ---
 
